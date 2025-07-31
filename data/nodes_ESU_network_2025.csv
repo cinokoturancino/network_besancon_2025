@@ -1,0 +1,29 @@
+id,label,value,shape,group,shadow,color,title
+001c,Rome,44,star,city,false,green,<p><b>1</b><br>Rome !</p>
+002c,Florence,16,,city,false,green,<p><b>2</b><br>Florence !</p>
+003c,Paris,49,star,city,false,green,<p><b>3</b><br>Paris !</p>
+004c,Edinburgh,19,,city,false,green,<p><b>4</b><br>Edinburgh !</p>
+005c,London,43,star,city,false,green,<p><b>5</b><br>London !</p>
+006c,Prague,12,,city,false,green,<p><b>6</b><br>Prague !</p>
+007c,Venice,7,,city,false,green,<p><b>7</b><br>Venice !</p>
+008c,Brisbane,8,,city,false,green,<p><b>8</b><br>Brisbane !</p>
+009c,Kyoto,11,,city,false,green,<p><b>9</b><br>Kyoto !</p>
+010c,Rio de Janeiro,1,,city,false,green,<p><b>10</b><br>Rio de Janeiro !</p>
+011c,San Sebastién,2,,city,false,green,<p><b>11</b><br>San Sebastian !</p>
+012c,Seville,10,,city,false,green,<p><b>12</b><br>Seville !</p>
+013c,Sydney,1,,city,false,green,<p><b>13</b><br>Sydney !</p>
+014c,Vancouver,2,,city,false,green,<p><b>14</b><br>Vancouver !</p>
+001p,Giovanni,20,,person,true,pink,<p><b>15</b><br>Giovanni !</p>
+002p,Julia,14,,person,true,pink,<p><b>16</b><br>Julia !</p>
+003p,Rachel,3,,person,true,pink,<p><b>17</b><br>Rachel !</p>
+004p,Ayse,2,,person,true,pink,<p><b>18</b><br>Ayse !</p>
+005p,Bram,50,diamond,person,true,pink,<p><b>19</b><br>Bram !</p>
+006p,Carmen,23,,person,true,pink,<p><b>20</b><br>Carmen !</p>
+007p,Reinier,2,,person,true,pink,<p><b>21</b><br>Reinier !</p>
+008p,Lieke,5,,person,true,pink,<p><b>22</b><br>Lieke !</p>
+009p,Twan,14,,person,true,pink,<p><b>23</b><br>Twan !</p>
+010p,Nils,10,,person,true,pink,<p><b>24</b><br>Nils !</p>
+011p,Doris,13,,person,true,pink,<p><b>25</b><br>Doris !</p>
+012p,Rossella,33,,person,true,pink,<p><b>26</b><br>Rossella !</p>
+013p,Felicia,18,,person,true,pink,<p><b>27</b><br>Felicia !</p>
+014p,Cagla,16,,person,true,pink,<p><b>28</b><br>Cagla !</p>
